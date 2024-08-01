@@ -114,12 +114,12 @@ AUTH_PASSWORD_VALIDATORS = [
 # https://docs.djangoproject.com/en/5.0/topics/i18n/
 
 # Defina o código de idioma correto
-LANGUAGE_CODE = 'pt-BR'
+LANGUAGE_CODE = 'pt-br'
 
 # Defina os idiomas suportados
 LANGUAGES = [
     ('en', 'English'),
-    ('pt-BR', 'Português (Brasil)'),
+    ('pt-br', 'Português (Brasil)'),
 ]
 
 # Certifique-se de ter uma configuração de localização e internacionalização apropriada
